@@ -36,3 +36,19 @@ area = calcular_area_retangulo(base, altura)
 
 # Exibe o resultado
 print(f"A área do retângulo é: {area} unidades quadradas.")
+
+# Como Executar
+Certifique-se de ter o Python instalado em seu sistema. O script foi testado com Python 3.x.
+
+Copie o código para um arquivo chamado, por exemplo, calcular_area_retangulo.py.
+
+Abra um terminal ou prompt de comando.
+
+Navegue até o diretório onde o arquivo foi salvo.
+
+Execute o script com o comando:
+
+bash
+Copiar código
+python main.py
+Siga as instruções exibidas para inserir a base e a altura do retângulo.
