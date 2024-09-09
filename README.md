@@ -30,5 +30,7 @@ Execute o script com o comando:
 bash
 Copiar código
 python main.py
-Siga as instruções exibidas para inserir a base e a altura do retângulo.
+
+## Contribuições
+Se você quiser contribuir para este projeto, sinta-se à vontade para enviar um pull request com melhorias ou correções. Para bugs e solicitações de recursos, por favor, abra uma issue no repositório.
 
