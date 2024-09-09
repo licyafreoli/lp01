@@ -16,28 +16,6 @@ O script realiza as seguintes etapas:
 3. Calcula a área do retângulo usando a fórmula mencionada.
 4. Exibe o resultado na tela.
 
-## Código
-
-Aqui está o código Python incluído no repositório:
-
-```python
-# Função para calcular a área do retângulo
-def calcular_area_retangulo(base, altura):
-    return base * altura
-
-# Solicita ao usuário a base do retângulo
-base = float(input("Digite a base do retângulo (em unidades): "))
-
-# Solicita ao usuário a altura do retângulo
-altura = float(input("Digite a altura do retângulo (em unidades): "))
-
-# Calcula a área usando a função
-area = calcular_area_retangulo(base, altura)
-
-# Exibe o resultado
-print(f"A área do retângulo é: {area} unidades quadradas.")
-
-
 ## Como executar
 Certifique-se de ter o Python instalado em seu sistema. O script foi testado com Python 3.x.
 
@@ -53,3 +31,4 @@ bash
 Copiar código
 python main.py
 Siga as instruções exibidas para inserir a base e a altura do retângulo.
+
